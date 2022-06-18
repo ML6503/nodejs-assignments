@@ -22,7 +22,7 @@ NB! You must create new repository from [template](https://github.com/rolling-sc
   ```
 - `CredentialsDto` (with attriutes): 
   ```javascript
-  {  username, password }
+  {  login, password }
   ```
 - `AuthTokenResponse` (with attriutes): 
   ```javascript
